@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonFrancis27
+- 🌱 I’m currently a Business Intelligence/Data Analytics Expert
+- 💞️ I love data visualisation
 - 👀 I’m interested in Analytics Engineering 
-- 🌱 I’m currently Business Intelligence/Data Analytics Expert
-- 💞️ I’m love data visualisation
 - 📫 How to reach me ...LinkedIn and email
 
 <!---
