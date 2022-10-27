@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonFrancis27
-- 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning Data Analytics 
-- 💞️ I’m looking to collaborate on Data  Science Projects
+- 👀 I’m interested in Analytics Engineering 
+- 🌱 I’m currently Business Intelligence/Data Analytics Expert
+- 💞️ I’m love data visualisation
 - 📫 How to reach me ...LinkedIn and email
 
 <!---
